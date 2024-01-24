@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Naiem Hasan
 ![](https://s13.gifyu.com/images/S0O27.png)
 <div>
-    <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">👩‍💻  About Me :</h2>
+    <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">👨‍💼  About Me :</h2>
     <p style="margin: 0;font-family: Arial, Helvetica, sans-serif;">I'm a dedicated Front End Web Developer, driven by a passion for crafting flawless websites that exceed client expectations. My commitment to delivering 100% client satisfaction is at the core of my work philosophy.<br><br>I thrive on continuous learning and find joy in sharing my knowledge with others through open communication. Solving real-world problems is my forte, and I approach every project with a strategic and goal-oriented mindset.<br><br>With a track record of creating hundreds of websites over the years, I take pride in producing high-quality work while maintaining excellent communication throughout the development process. While my primary focus is on WordPress, I also enjoy working with cutting-edge technologies such as ReactJS, JavaScript, and PHP.<br><br>Let's build something extraordinary together!</p>
 </div>
 <div>
