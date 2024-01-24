@@ -14,11 +14,16 @@
     </a>
 </div>
 <div>
+    <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">🐱‍💻   My Stats :</h2>
+    <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+        </a>
+      </p>
+</div>
+<div>
     <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">🔥   My Stats :</h2>
 </div>
-
-
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naiemjoy1&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naiemjoy1&theme=highcontrast&hide_border=true" />
