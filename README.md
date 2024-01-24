@@ -15,7 +15,7 @@
     
 </div>
 <div>
-    <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">🐱‍💻   My Stats :</h2>
+    <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">👨‍💻   My Skills :</h2>
     <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=py,html,css,tailwind,php,js,react,nodejs,mongodb,git,ps,ai,figma,xd,pr" />
