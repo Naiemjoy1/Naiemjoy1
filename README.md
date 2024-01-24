@@ -17,7 +17,7 @@
     <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">🐱‍💻   My Stats :</h2>
     <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+          <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,html,css,tailwind,php,js,react,nodejs,ps,ai,xd,pr" />
         </a>
       </p>
 </div>
