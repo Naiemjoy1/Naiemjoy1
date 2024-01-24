@@ -15,7 +15,7 @@
 </div>
 <div>
     <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">🔥   My Stats :</h2>
-    <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</p>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
