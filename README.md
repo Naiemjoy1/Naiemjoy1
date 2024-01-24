@@ -12,9 +12,7 @@
     <a href="https://twitter.com/Naiem1joy" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="facebook" width = "100px" height = "25px">
     </a>
-    <a href="https://www.facebook.com/naiemjoy1/" target="_blank">
-        <img src="[https://s13.gifyu.com/images/S0Ozz.png](https://imgbox.com/1TYLpLlF)" alt="facebook" height = "25px">
-    </a>
+    
 </div>
 <div>
     <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">🐱‍💻   My Stats :</h2>
