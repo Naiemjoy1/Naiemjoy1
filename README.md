@@ -22,10 +22,14 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Naiemjoy1&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+    <img height="150" src="https://github-profile-trophy.vercel.app/?username=Naiemjoy1&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+  </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img height="150" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Naiemjoy1&icon=0&color=0)](https://visitcount.itsvg.in)
