@@ -74,5 +74,7 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Naiemjoy1&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=naiemjoy1&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 
