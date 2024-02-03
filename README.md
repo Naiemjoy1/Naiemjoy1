@@ -66,7 +66,7 @@
     <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">🏆 GitHub Trophies :</h2>
 </div>
 <div align="center">
-    <img height="150" src="https://github-profile-trophy.vercel.app/?username=Naiemjoy1&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+    ![](https://github-profile-trophy.vercel.app/?username=naiemjoy1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   </div>
 
 
@@ -78,7 +78,5 @@
 </div>
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=naiemjoy1&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=naiemjoy1&icon=0&color=0)](https://visitcount.itsvg.in)
 
