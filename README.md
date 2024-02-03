@@ -66,7 +66,8 @@
     <h2 style="margin: 0;font-family: Arial, Helvetica, sans-serif;">🏆 GitHub Trophies :</h2>
 </div>
 <div align="center">
-    (https://github-profile-trophy.vercel.app/?username=naiemjoy1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+    ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=naiemjoy1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   </div>
 
 
