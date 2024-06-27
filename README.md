@@ -1,14 +1,6 @@
-# Hello, I'm Naiem Hasan
+# 👋 Naiem Hasan's Portfolio
 
-Welcome to my GitHub repository! I'm a frontend web developer passionate about creating awesome projects.
-
----
-
-## Typing Animation Example
-
-<!-- Typing Animation Start -->
-I'm a frontend developer.
-<!-- Typing Animation End -->
+Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences.
 
 ---
 
@@ -29,8 +21,6 @@ I'm a frontend developer.
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat-square)
 
----
-
 ## 🎓 Education
 
 - **Degree**: Bachelor of Science in Computer Science
@@ -41,11 +31,12 @@ I'm a frontend developer.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naiemjoy1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naiemjoy1&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naiemjoy1&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naiemjoy1&show_icons=true&theme=radical" alt="Naiem Joy's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiemjoy1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naiemjoy1&theme=radical" alt="Naiem Joy's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiemjoy1&theme=radical" alt="Profile Summary" />
+</p>
 
 ---
 
