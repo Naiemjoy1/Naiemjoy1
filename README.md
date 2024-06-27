@@ -1,12 +1,9 @@
 # 👋 Naiem Hasan's Portfolio
 ## Typing Animation Example
 
-You can add a typing animation like this:
-
-![Typing Animation](https://path-to-your-typing-animation.gif)
-
-Replace `https://path-to-your-typing-animation.gif` with the actual URL of your typing animation GIF.
-
+<div style="font-family: monospace; font-size: 1.2em; white-space: nowrap; overflow: hidden; border-right: .15em solid orange; animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
+  I'm a frontend developer
+</div>
 
 Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences.
 
