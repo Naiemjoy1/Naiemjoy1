@@ -1,9 +1,4 @@
 # 👋 Naiem Hasan's Portfolio
-## Typing Animation Example
-
-<div style="font-family: monospace; font-size: 1.2em; white-space: nowrap; overflow: hidden; border-right: .15em solid orange; animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
-  I'm a frontend developer
-</div>
 
 Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences.
 
