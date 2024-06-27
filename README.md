@@ -33,14 +33,13 @@ Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web develope
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naiemjoy1&show_icons=true&theme=radical" alt="Naiem Joy's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiemjoy1&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naiemjoy1&theme=radical" alt="Naiem Joy's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiemjoy1&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiemjoy1&theme=radical" alt="Profile Summary" />
-  <img src="https://github-profile-trophy.vercel.app/?username=naiemjoy1&theme=radical" alt="GitHub Trophy" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-Feel free to reach out to me via email at [naiemunhasan@gmail.com]. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/naiemjoy1/) for professional inquiries and collaborations.
+Feel free to reach out to me via email at naiemunhasan@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/naiemjoy1/) for professional inquiries and collaborations.
