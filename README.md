@@ -1,50 +1,10 @@
 ## Typing Animation Example
 
-<!-- Typing Animation Container -->
-<p id="typing-animation"></p>
+<!-- Typing Animation Start -->
+I'm a frontend developer.
+<!-- Typing Animation End -->
 
-<!-- JavaScript for Typing Animation -->
-<script>
-const sentences = [
-  "I'm a frontend developer.",
-  "I'm passionate about web development.",
-  "I love creating responsive websites."
-];
-
-let currentSentenceIndex = 0;
-let currentCharIndex = 0;
-let isDeleting = false;
-
-function type() {
-  const sentence = sentences[currentSentenceIndex];
-  if (currentCharIndex < sentence.length && !isDeleting) {
-    // Add next character to #typing-animation
-    document.getElementById('typing-animation').textContent += sentence.charAt(currentCharIndex);
-    currentCharIndex++;
-    setTimeout(type, 100); // Typing speed in milliseconds
-  } else if (currentCharIndex >= sentence.length && !isDeleting) {
-    // Start deleting after typing
-    isDeleting = true;
-    setTimeout(type, 500); // Delay before deleting
-  } else if (currentCharIndex > 0 && isDeleting) {
-    // Delete characters
-    document.getElementById('typing-animation').textContent = sentence.substring(0, currentCharIndex - 1);
-    currentCharIndex--;
-    setTimeout(type, 50); // Deleting speed
-  } else {
-    // Move to the next sentence and reset
-    isDeleting = false;
-    currentCharIndex = 0;
-    currentSentenceIndex = (currentSentenceIndex + 1) % sentences.length;
-    setTimeout(type, 200); // Delay before typing next sentence
-  }
-}
-
-// Start typing animation
-document.addEventListener('DOMContentLoaded', function() {
-  type();
-});
-</script>
+---
 # 👋 Naiem Hasan's Portfolio
 
 Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences.
@@ -90,3 +50,28 @@ Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web develope
 ## 📫 Contact
 
 Feel free to reach out to me via email at naiemunhasan@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/naiemjoy1/) for professional inquiries and collaborations.
+
+<style>
+/* Blinking cursor animation */
+@keyframes cursor-blink {
+  0%, 100% { border-right: .15em solid orange; }
+  50% { border-right: none; }
+}
+
+/* Typing animation */
+p {
+  font-family: monospace;
+  font-size: 1.2em;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: .15em solid orange;
+  animation: typing 3.5s steps(40, end), cursor-blink .75s step-end infinite;
+}
+
+/* Typing animation keyframes */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+</style>
+
