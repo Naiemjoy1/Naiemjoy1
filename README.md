@@ -1,6 +1,12 @@
 # 👋 Naiem Hasan's Portfolio
+## Typing Animation Example
 
-<h1 class="typewriter">Hello, I'm Naiem Hasan</h1>
+You can add a typing animation like this:
+
+![Typing Animation](https://path-to-your-typing-animation.gif)
+
+Replace `https://path-to-your-typing-animation.gif` with the actual URL of your typing animation GIF.
+
 
 Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences.
 
