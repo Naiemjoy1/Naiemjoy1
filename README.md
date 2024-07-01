@@ -1,3 +1,4 @@
+![Banner](https://i.ibb.co/ns93bk1/Naiem-Hasan.jpg)
 # 👋 Naiem Hasan's Portfolio
 
 Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences.
