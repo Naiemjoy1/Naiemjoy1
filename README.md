@@ -1,7 +1,8 @@
 ![Banner](https://i.ibb.co/ns93bk1/Naiem-Hasan.jpg)
 # 👋 Hello
 
-Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences.
+Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences. I am a dedicated front-end web developer who strongly focuses on creating responsive and user-friendly web applications using React.js. With a Bachelor's degree in Computer Science from American International University - Bangladesh (AIUB), I bring a solid foundation in programming and a keen eye for UI/UX design. I am enthusiastic about learning new technologies and solving complex challenges in web development.
+
 
 ---
 
