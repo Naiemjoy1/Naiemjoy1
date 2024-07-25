@@ -40,7 +40,7 @@ Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web develope
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naiemjoy1&theme=radical" alt="Naiem Joy's GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiemjoy1&theme=radical" alt="Profile Summary" />
-  <img src="https://myreadme.vercel.app/api/embed/naiemjoy1?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/naiemjoy1?panels=userstatistics,toprepositories,commitgraph&theme=radical" alt="reimaginedreadme" />
 </p>
 
 ---
