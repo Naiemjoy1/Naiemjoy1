@@ -40,7 +40,7 @@ Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web develope
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=naiemjoy1&theme=radical) | ![GitHub Streak](https://myreadme.vercel.app/api/embed/naiemjoy1?panels=userstatistics,toprepositories,commitgraph&theme=radical) |
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif12018&show_icons=true&locale=en" alt="asif12018" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=naiemjoy1&show_icons=true&locale=en" alt="asif12018" />
 
 ---
 
