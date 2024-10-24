@@ -45,6 +45,10 @@ Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web develope
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/naiemjoy1)](https://leetcode.com/naiemjoy1)
 ---
+## 💻 HackerRank Stats
+
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/naiemunhasan)
+---
 
 ## 📫 Contact
 
