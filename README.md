@@ -42,7 +42,6 @@ Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web develope
 ---
 
 
-
 ## 📫 Contact
 
 Feel free to reach out to me via email at naiemunhasan@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/naiemjoy1/) for professional inquiries and collaborations.
