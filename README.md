@@ -41,7 +41,7 @@ Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web develope
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats]([https://github-readme-streak-stats.herokuapp.com/?user=naiemjoy1&theme=radical&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=naiemjoy1&theme=radical&hide_border=false)) |[![LeetCode Stats](https://leetcard.jacoblin.cool/naiemjoy1)](https://leetcode.com/naiemjoy1)
 ---
 
-
+https://github-readme-streak-stats.herokuapp.com/?user=naiemjoy1&theme=radical&hide_border=false
 ## 📫 Contact
 
 Feel free to reach out to me via email at naiemunhasan@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/naiemjoy1/) for professional inquiries and collaborations.
