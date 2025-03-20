@@ -36,10 +36,10 @@ Welcome to my portfolio! I'm **Naiem Hasan**, a passionate frontend web develope
 
 ## 📊 GitHub Stats
 
-| Top Languages | GitHub Stats |LeetCode Stats
+| Top Languages | GitHub Stats | LeetCode Stats |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](![](https://nirzak-streak-stats.vercel.app/?user=naiemjoy1&theme=dark&hide_border=false)<br/> |[![LeetCode Stats](https://leetcard.jacoblin.cool/naiemjoy1)](https://leetcode.com/naiemjoy1)
----
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=naiemjoy1&theme=dark&hide_border=false) | [![LeetCode Stats](https://leetcard.jacoblin.cool/naiemjoy1)](https://leetcode.com/naiemjoy1) |
+
 
 
 
